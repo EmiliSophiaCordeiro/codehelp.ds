@@ -21,14 +21,6 @@ forumButton.addEventListener('click', () => {
 })
 
 
-const featuresSection = document.getElementById('features')
-featuresSection.addEventListener('mouseover', () => {
-    featuresSection.classList.add('animated')
-})
-featuresSection.addEventListener('mouseout', () => {
-    featuresSection.classList.remove('animated')
-})
-
 const showMoreButton = document.querySelector('#about button')
 const hiddenContent = document.querySelector('#about .hidden-content')
 
