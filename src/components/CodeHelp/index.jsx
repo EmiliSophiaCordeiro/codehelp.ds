@@ -32,10 +32,7 @@ export default function CodeHelp() {
         <div className="hero-content">
           <h1>Aprenda a Programar com o Code Help.ds</h1>
           <p>Sua plataforma para tirar dúvidas, corrigir código e conectar-se com outros estudantes.</p>
-          <button>
-            <a href="index2.html" className="start-button" style={{ textDecoration: 'none', color: 'inherit' }}>
-              Comece Agora
-            </a>
+          <button>Comece Agora</button>
           </button>
         </div>
         <div className="hero-image">
